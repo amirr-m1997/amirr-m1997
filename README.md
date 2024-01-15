@@ -10,7 +10,8 @@ Amir Mohamadi
 ## My expertise
 
 <p>
-<img alt="Django" src="https://img.shields.io/badge/django-%23E34F26.svg?style=for-the-badge&logo=django&logoColor=green" />
+<img alt="Django" src="https://img.shields.io/badge/django-%23E34F26.svg?style=for-the-badge&logo=django&logoColor=#001a00" />
+  <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -22,15 +23,15 @@ Amir Mohamadi
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> -->
-<img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+
 
 </p>
 
 ## My social networks
-<!-- <a href="https://instagram.com/weblax_ir">
+ <a href="https://instagram.com/amirr_m1997">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/channel/UC9l_5Xfj0KnQda1hkf_nSWQ">
+<!--<a href="https://www.youtube.com/channel/UC9l_5Xfj0KnQda1hkf_nSWQ">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a> -->
 <a href="https://t.me/amirr_m1997">
